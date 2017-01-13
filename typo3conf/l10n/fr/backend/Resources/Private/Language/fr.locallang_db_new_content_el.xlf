@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="fr" datatype="plaintext" original="messages" date="2015-12-08T00:02:41Z" product-name="backend">
+		<header/>
+		<body>
+			<trans-unit id="common" approved="yes">
+				<source>Typical page content</source>
+				<target state="translated">Elément de contenu classique</target>
+			</trans-unit>
+			<trans-unit id="common_bulletList_description" approved="yes">
+				<source>A single bullet list.</source>
+				<target state="translated">Un simple liste à puces.</target>
+			</trans-unit>
+			<trans-unit id="common_bulletList_title" approved="yes">
+				<source>Bullet List</source>
+				<target state="translated">Liste à puces</target>
+			</trans-unit>
+			<trans-unit id="common_headerOnly_description" approved="yes">
+				<source>Adds a header only.</source>
+				<target state="translated">Ajoute un en-tête uniquement.</target>
+			</trans-unit>
+			<trans-unit id="common_headerOnly_title" approved="yes">
+				<source>Header Only</source>
+				<target state="translated">En-tête uniquement</target>
+			</trans-unit>
+			<trans-unit id="common_imagesOnly_description" approved="yes">
+				<source>Any number of images aligned in columns and rows with a caption.</source>
+				<target state="translated">Un nombre arbitraire d'images alignées en lignes et colonnes avec une légende.</target>
+			</trans-unit>
+			<trans-unit id="common_imagesOnly_title" approved="yes">
+				<source>Images Only</source>
+				<target state="translated">Images uniquement</target>
+			</trans-unit>
+			<trans-unit id="common_regularText_description" approved="yes">
+				<source>A regular text element with header and bodytext fields.</source>
+				<target state="translated">Un élément de texte simple avec des champs d'en-tête et de contenu.</target>
+			</trans-unit>
+			<trans-unit id="common_regularText_title" approved="yes">
+				<source>Regular Text Element</source>
+				<target state="translated">Elément de texte simple</target>
+			</trans-unit>
+			<trans-unit id="common_table_description" approved="yes">
+				<source>A simple table.</source>
+				<target state="translated">Un tableau simple.</target>
+			</trans-unit>
+			<trans-unit id="common_table_title" approved="yes">
+				<source>Table</source>
+				<target state="translated">Tableau</target>
+			</trans-unit>
+			<trans-unit id="common_textImage_description" approved="yes">
+				<source>Any number of images wrapped right around a regular text element.</source>
+				<target state="translated">Un nombre arbitraire d'images entourant un bloc de texte.</target>
+			</trans-unit>
+			<trans-unit id="common_textImage_title" approved="yes">
+				<source>Text &amp; Images</source>
+				<target state="translated">Texte &amp; images</target>
+			</trans-unit>
+			<trans-unit id="forms" approved="yes">
+				<source>Form elements</source>
+				<target state="translated">Formulaires</target>
+			</trans-unit>
+			<trans-unit id="forms_login_description" approved="yes">
+				<source>Login/logout form used to password protect pages allowing only authorised website users and groups access.</source>
+				<target state="translated">Formulaire de connexion/déconnexion utilisé pour protéger l'accès à des pages par mot de passe en n'autorisant l'accès qu'aux utilisateurs et aux groupes autorisés du site web.</target>
+			</trans-unit>
+			<trans-unit id="forms_login_title" approved="yes">
+				<source>Login Form</source>
+				<target state="translated">Formulaire de connexion</target>
+			</trans-unit>
+			<trans-unit id="forms_mail_description" approved="yes">
+				<source>A mail form allowing website users to submit responses.</source>
+				<target state="translated">Un formulaire par email qui permet aux utilisateurs du site web d'envoyer des réponses.</target>
+			</trans-unit>
+			<trans-unit id="forms_mail_title" approved="yes">
+				<source>Mail Form</source>
+				<target state="translated">Formulaire par email</target>
+			</trans-unit>
+			<trans-unit id="plugins" approved="yes">
+				<source>Plugins</source>
+				<target state="translated">Modules</target>
+			</trans-unit>
+			<trans-unit id="plugins_general_description" approved="yes">
+				<source>Select this element type to insert a plugin which cannot be found amongst the options below.</source>
+				<target state="translated">Sélectionnez ce type d'élément pour insérer un plugin qui ne peut être trouvé parmi les options ci-dessous.</target>
+				<alt-trans xml:space="preserve" origin="GuillaumeG">
+					<target>Sélectionnez ce type d'élément pour insérer un plugin qui ne peut être trouvé parmi les options ci-dessous.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="plugins_general_title" approved="yes">
+				<source>General Plugin</source>
+				<target state="translated">Module général</target>
+			</trans-unit>
+			<trans-unit id="sel1" approved="yes">
+				<source>Please select the type of page content you wish to create:</source>
+				<target state="translated">Veuillez sélectionner le type de contenu de page que vous souhaitez créer :</target>
+			</trans-unit>
+			<trans-unit id="sel2" approved="yes">
+				<source>Now, click the position where you wish to place the element on the page:</source>
+				<target state="translated">Cliquez maintenant sur la position à laquelle vous souhaitez placer l'élément sur la page :</target>
+			</trans-unit>
+			<trans-unit id="special" approved="yes">
+				<source>Special elements</source>
+				<target state="translated">Eléments spéciaux</target>
+			</trans-unit>
+			<trans-unit id="special_divider_description" approved="yes">
+				<source>This element inserts a visual divider, which is by default a horizontal line.</source>
+				<target state="translated">Cet élément insère une séparation visuelle, par défaut une ligne horizontale.</target>
+			</trans-unit>
+			<trans-unit id="special_divider_title" approved="yes">
+				<source>Divider</source>
+				<target state="translated">Séparation</target>
+			</trans-unit>
+			<trans-unit id="special_filelinks_description" approved="yes">
+				<source>Makes a list of files for download.</source>
+				<target state="translated">Crée une liste de fichiers à télécharger.</target>
+			</trans-unit>
+			<trans-unit id="special_filelinks_title" approved="yes">
+				<source>File Links</source>
+				<target state="translated">Liste de fichiers</target>
+			</trans-unit>
+			<trans-unit id="special_menus_description" approved="yes">
+				<source>Creates a menu of pages, sitemap or other special menus.</source>
+				<target state="translated">Crée un menu des pages, une carte du site ou d'autres menus spéciaux.</target>
+			</trans-unit>
+			<trans-unit id="special_menus_title" approved="yes">
+				<source>Special Menus</source>
+				<target state="translated">Menus spéciaux</target>
+			</trans-unit>
+			<trans-unit id="special_plainHTML_description" approved="yes">
+				<source>With this element you can insert raw HTML code on the page.</source>
+				<target state="translated">Cet élément vous permet d'insérer du code HTML brut sur la page.</target>
+			</trans-unit>
+			<trans-unit id="special_plainHTML_title" approved="yes">
+				<source>Plain HTML</source>
+				<target state="translated">Pur HTML</target>
+			</trans-unit>
+			<trans-unit id="special_shortcut_description" approved="yes">
+				<source>With this element you can embed other content elements.</source>
+				<target state="translated">Avec cet élément vous pouvez inclure d'autres éléments de contenu.</target>
+			</trans-unit>
+			<trans-unit id="special_shortcut_title" approved="yes">
+				<source>Insert records</source>
+				<target state="translated">Insérer des enregistrements</target>
+			</trans-unit>
+			<trans-unit id="special_sitemap_title" approved="yes">
+				<source>Sitemap</source>
+				<target state="translated">Carte du site</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="fr" datatype="plaintext" original="messages" date="2015-12-08T00:10:01Z" product-name="beuser">
+		<header/>
+		<body>
+			<trans-unit id="1" approved="yes">
+				<source>Show page</source>
+				<target state="translated">Afficher la page</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>Afficher la page</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="16" approved="yes">
+				<source>Edit content</source>
+				<target state="translated">Editer le contenu</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>Modifier le contenu</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="16_t" approved="yes">
+				<source>Change/Add/Delete/Move content.</source>
+				<target state="translated">Modifier/Ajouter/Effacer/Déplacer du contenu.</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>Modifier/Ajouter/Effacer/Déplacer du contenu.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="1_t" approved="yes">
+				<source>Show/Copy page and content.</source>
+				<target state="translated">Afficher/Copier page et contenu.</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>Afficher/Copier page et contenu.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="2" approved="yes">
+				<source>Edit page</source>
+				<target state="translated">Editer la page</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>Modifier la page</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="2_t" approved="yes">
+				<source>Change/Move page, eg. change pagetitle etc.</source>
+				<target state="translated">Modifier/Déplacer une page, par ex. changer le titre de la page, etc.</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>Modifier/Déplacer une page, par ex. changer le titre de la page, etc.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="4" approved="yes">
+				<source>Delete page</source>
+				<target state="translated">Supprimer la page</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>Supprimer la page</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="4_t" approved="yes">
+				<source>Delete page and content.</source>
+				<target state="translated">Supprimer page et contenu.</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>Supprimer page et contenu.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="8" approved="yes">
+				<source>New pages</source>
+				<target state="translated">Nouvelles pages</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>Nouvelles pages</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="8_t" approved="yes">
+				<source>Create new pages under this page.</source>
+				<target state="translated">Créer de nouvelles pages sous cette page.</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>Créer de nouvelles pages sous cette page.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="Abort" approved="yes">
+				<source>Abort</source>
+				<target state="translated">Abandonner</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>Abandonner</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="A_Denied" approved="yes">
+				<source>Access Denied</source>
+				<target state="translated">Accès refusé</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>Accès refusé</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="A_Granted" approved="yes">
+				<source>Access Granted</source>
+				<target state="translated">Accès autorisé</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>Accès autorisé</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="ch_permissions" approved="yes">
+				<source>Change permissions</source>
+				<target state="translated">Modifier les permissions</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>Modifier les permissions</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="def" approved="yes">
+				<source>Definition: 'content' is records from all tables on a page - except from records from the table 'pages' (Pages).</source>
+				<target state="translated">Définition : 'contenu' est un enregistrement pour toutes les tables d'une page - excepté les enregistrements de la table 'pages' (Pages).</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>Définition : 'contenu' est un enregistrement pour toutes les tables d'une page - excepté les enregistrements de la table 'pages' (Pages).</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="deleted" approved="yes">
+				<source>deleted</source>
+				<target state="translated">supprimé</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>supprimé</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="Depth" approved="yes">
+				<source>Depth</source>
+				<target state="translated">Profondeur</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>Profondeur</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="Edit" approved="yes">
+				<source>EDIT</source>
+				<target state="translated">EDITION</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>EDITION</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="EditLock" approved="yes">
+				<source>Lock</source>
+				<target state="translated">Verrouiller</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>Verrouiller</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="EditLock_descr" approved="yes">
+				<source>The page and all content is locked for editing by all non-Admin users.</source>
+				<target state="translated">La page et tous les contenus sont verrouillés à l'édition pour tous les utilisateurs non admin.</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>La page et tous les contenus sont verrouillés à l'édition pour tous les utilisateurs non admin.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="EditLock_descr2" approved="yes">
+				<source>Enable the »Admin-only« edit lock for this page</source>
+				<target state="translated">Active le verrouillage d'édition "Seulement pour les admins" pour cette page</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>Active le verrouillage d'édition "Seulement pour les admins" pour cette page</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="Everybody" approved="yes">
+				<source>Everybody</source>
+				<target state="translated">Tout le monde</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>Tout le monde</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="Group" approved="yes">
+				<source>Group</source>
+				<target state="translated">Groupe</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>Groupe</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="Legend" approved="yes">
+				<source>Legend</source>
+				<target state="translated">Légende</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>Légende</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="levels" approved="yes">
+				<source>levels</source>
+				<target state="translated">niveaux</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>niveaux</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="mlang_labels_tabdescr" approved="yes">
+				<source>Setting of page permissions is vital for controlling backend user access to pages. You can assign a user and a group as owners of a page and set access permissions for each.</source>
+				<target state="translated">Définir les permissions des pages est vital pour contrôler l'accès des utilisateurs backend à ces pages. Vous pouvez définir un utilisateur et un groupe comme propriétaires d'une page et définir les droits d'accès pour chacun d'eux.</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>Définir les permissions des pages est vital pour controller l'accès des utilisateurs backend à ces pages. Vous pouvez définir un utilisateur et un groupe comme propriétaires d'une page et définir les droits d'accès pour chaque.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="mlang_labels_tablabel" approved="yes">
+				<source>Page editing permissions</source>
+				<target state="translated">Permissions d'édition de page</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>Permissions d'édition de page</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="mlang_tabs_tab" approved="yes">
+				<source>Access</source>
+				<target state="translated">Accès</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>Accès</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="Mode" approved="yes">
+				<source>Mode</source>
+				<target state="translated">Mode</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>Mode</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="noGroups" approved="yes">
+				<source>No user groups exist.</source>
+				<target state="translated">Aucun groupe d'utilisateurs n'existe.</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>Aucun groupe d'utilisateurs n'existe.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="notSet" approved="yes">
+				<source>not set</source>
+				<target state="translated">non défini</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>non défini</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="Owner" approved="yes">
+				<source>Owner</source>
+				<target state="translated">Propriétaire</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>Propriétaire</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="pages_affected" approved="yes">
+				<source>pages affected</source>
+				<target state="translated">Pages affectées</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>Pages affectées</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="permissions" approved="yes">
+				<source>Permissions</source>
+				<target state="translated">Permissions</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>Permissions</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="recursive" approved="yes">
+				<source>Set recursively</source>
+				<target state="translated">Définir récursivement</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>Définir récursivement</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="Save" approved="yes">
+				<source>Save</source>
+				<target state="translated">Enregistrer</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>Enregistrer</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="selectNone" approved="yes">
+				<source>   - none -   </source>
+				<target state="translated">- aucun -</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>- aucun -</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="selectUnchanged" approved="yes">
+				<source>   - leave unchanged -   </source>
+				<target state="translated">- laisser inchangé -</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>- laisser inchangé -</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="User" approved="yes">
+				<source>User</source>
+				<target state="translated">Utilisateur</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>Utilisateur</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="user_overview" approved="yes">
+				<source>User overview</source>
+				<target state="translated">Aperçu utilisateur</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>Aperçu utilisateur</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="WorkspaceWarning" approved="yes">
+				<source>Workspace Warning</source>
+				<target state="translated">Avertissement Espaces de travail</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>Avertissement Espaces de travail</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="WorkspaceWarningText" approved="yes">
+				<source>Permissions you set in the workspace are effective on the elements only &lt;em&gt;after&lt;/em&gt; they are published! If you need to set permissions which are effective right now, you must do so in the Live workspace. (Permissions are always evaluated on the Live workspace record/placeholder of a draft version)</source>
+				<target state="translated">Les permissions que vous définissez dans un espace de travail sont effectives sur les éléments seulement &lt;em&gt;après&lt;/em&gt; qu'ils soient publiés! Si vous avez besoin de définir des permissions effectives maintenant, vous devez le faire dans l'espace de travail LIVE.</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>Les permissions que vous définissez dans un espace de travail sont effectives sur les éléments seulement &lt;em&gt;après&lt;/em&gt; qu'ils soient publiés. Si vous avez besoin de définir des permissions effectives maintenant, vous devez le faire dans l'espace de travail LIVE.</target>
+				</alt-trans>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

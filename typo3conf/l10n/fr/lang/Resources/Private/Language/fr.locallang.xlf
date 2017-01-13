@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="fr" datatype="plaintext" original="messages" date="2015-12-08T01:39:42Z" product-name="lang">
+		<header/>
+		<body>
+			<trans-unit id="button.activate" approved="yes">
+				<source>Activate</source>
+				<target state="translated">Activer</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>Activer</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="button.cancel" approved="yes">
+				<source>Cancel</source>
+				<target state="translated">Annuler</target>
+			</trans-unit>
+			<trans-unit id="button.complete" approved="yes">
+				<source>Complete</source>
+				<target state="translated">Terminé</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>Terminé</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="button.deactivate" approved="yes">
+				<source>Deactivate</source>
+				<target state="translated">Désactiver</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>Désactiver</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="button.download" approved="yes">
+				<source>Download</source>
+				<target state="translated">Télécharger</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>Télécharger</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="button.downloadAll" approved="yes">
+				<source>Download all</source>
+				<target state="translated">Tout télécharger</target>
+			</trans-unit>
+			<trans-unit id="button.loading" approved="yes">
+				<source>Loading</source>
+				<target state="translated">Chargement</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>Chargement</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="flashmessage.canceled" approved="yes">
+				<source>The process has been canceled.</source>
+				<target state="translated">Le processus a été annulé.</target>
+			</trans-unit>
+			<trans-unit id="flashmessage.error" approved="yes">
+				<source>Error</source>
+				<target state="translated">Erreur</target>
+			</trans-unit>
+			<trans-unit id="flashmessage.errorOccurred" approved="yes">
+				<source>The request has failed.</source>
+				<target state="translated">La requête a échoué.</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>La requête a échoué.</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="flashmessage.information" approved="yes">
+				<source>Information</source>
+				<target state="translated">Information</target>
+			</trans-unit>
+			<trans-unit id="flashmessage.languageActivated">
+				<source>Language was successfully activated.</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>Activation de la langue réussie</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="flashmessage.languageDeactivated">
+				<source>Language was successfully deactivated.</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>Désactivation de la langue réussie</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="flashmessage.multipleErrors" approved="yes">
+				<source>Several requests have been failed. Please check your internet connection!</source>
+				<target state="translated">Plusieurs requêtes ont échoué. Veuillez vérifier votre connection internet !</target>
+			</trans-unit>
+			<trans-unit id="flashmessage.success" approved="yes">
+				<source>Success</source>
+				<target state="translated">Succès</target>
+			</trans-unit>
+			<trans-unit id="flashmessage.updateComplete" approved="yes">
+				<source>The translation update has been successfully completed.</source>
+				<target state="translated">La mise à jour des traductions s'est effectuée avec succès.</target>
+			</trans-unit>
+			<trans-unit id="header.languages">
+				<source>Installed Languages</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>Langues installées</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="header.translations">
+				<source>Translation Overview</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="state.error" approved="yes">
+				<source>Error</source>
+				<target state="translated">Erreur</target>
+			</trans-unit>
+			<trans-unit id="table.actions">
+				<source>Actions</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>Actions</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="table.ad">
+				<source>A/D</source>
+				<target/>
+			</trans-unit>
+			<trans-unit id="table.ad.title">
+				<source>Activate / Deactivate</source>
+				<target/>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>Activation / Désactivation</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="table.date" approved="yes">
+				<source>Last update</source>
+				<target state="translated">Dernière mise à jour</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>Dernière mise à jour</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="table.dateFormat" approved="yes">
+				<source>YYYY-MM-DD HH:mm</source>
+				<target state="translated">JJ.MM.AAAA, HH:mm</target>
+			</trans-unit>
+			<trans-unit id="table.emptyTable" approved="yes">
+				<source>No data available in table</source>
+				<target state="translated">Pas de donnée dans la table</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>Pas de donnée dans la table</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="table.extension" approved="yes">
+				<source>Extension</source>
+				<target state="translated">Extension</target>
+			</trans-unit>
+			<trans-unit id="table.language" approved="yes">
+				<source>Language</source>
+				<target state="translated">Langue</target>
+			</trans-unit>
+			<trans-unit id="table.loadingRecords" approved="yes">
+				<source>Loading...</source>
+				<target state="translated">Chargement…</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>Chargement…</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="table.locale" approved="yes">
+				<source>Locale</source>
+				<target state="translated">Locale</target>
+			</trans-unit>
+			<trans-unit id="table.processing" approved="yes">
+				<source>Processing...</source>
+				<target state="translated">Traitement en cours...</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>Traitement en cours...</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="table.search" approved="yes">
+				<source>Search:</source>
+				<target state="translated">Recherche :</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>Recherche :</target>
+				</alt-trans>
+			</trans-unit>
+			<trans-unit id="table.zeroRecords" approved="yes">
+				<source>No matching records found</source>
+				<target state="translated">Aucun enregistrement correspondant trouvé</target>
+				<alt-trans xml:space="preserve" origin="bidau">
+					<target>Aucun enregistrement correspondant trouvé</target>
+				</alt-trans>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

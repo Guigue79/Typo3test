@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="fr" datatype="plaintext" original="messages" date="2015-12-08T00:58:48Z" product-name="fluid">
+		<header/>
+		<body>
+			<trans-unit id="viewhelper.format.bytes.units" approved="yes">
+				<source>B,KB,MB,GB,TB,PB,EB,ZB,YB</source>
+				<target state="translated">O,Ko,Mo,Go,To,Po,Eo,Zo,Yo</target>
+			</trans-unit>
+			<trans-unit id="widget.pagination.first" approved="yes">
+				<source>first</source>
+				<target state="translated">premier</target>
+			</trans-unit>
+			<trans-unit id="widget.pagination.last" approved="yes">
+				<source>last</source>
+				<target state="translated">dernier</target>
+			</trans-unit>
+			<trans-unit id="widget.pagination.next" approved="yes">
+				<source>next</source>
+				<target state="translated">Suivant</target>
+			</trans-unit>
+			<trans-unit id="widget.pagination.page" approved="yes">
+				<source>Page</source>
+				<target state="translated">Page</target>
+			</trans-unit>
+			<trans-unit id="widget.pagination.previous" approved="yes">
+				<source>previous</source>
+				<target state="translated">Précédent</target>
+			</trans-unit>
+			<trans-unit id="widget.pagination.records" approved="yes">
+				<source>Records</source>
+				<target state="translated">Enregistrements</target>
+			</trans-unit>
+			<trans-unit id="widget.pagination.refresh" approved="yes">
+				<source>Refresh</source>
+				<target state="translated">Rafraîchir</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

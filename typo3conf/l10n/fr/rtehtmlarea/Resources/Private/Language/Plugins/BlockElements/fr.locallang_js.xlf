@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+	<file source-language="en" target-language="fr" datatype="plaintext" original="messages" date="2015-12-08T02:34:05Z" product-name="rtehtmlarea">
+		<header/>
+		<body>
+			<trans-unit id="Blockquote-helpText" approved="yes">
+				<source>Makes a large quotation block</source>
+				<target state="translated">Créer un large bloque de cote</target>
+			</trans-unit>
+			<trans-unit id="Blockquote-Tooltip" approved="yes">
+				<source>Large quotation</source>
+				<target state="translated">Bloc de citation</target>
+			</trans-unit>
+			<trans-unit id="FormatBlock-Tooltip" approved="yes">
+				<source>Type of block</source>
+				<target state="translated">Type de bloc</target>
+			</trans-unit>
+			<trans-unit id="Indent-helpText" approved="yes">
+				<source>Increases text indentation</source>
+				<target state="translated">Augmenter l'identation du texte</target>
+			</trans-unit>
+			<trans-unit id="Indent-Tooltip" approved="yes">
+				<source>Increase indent</source>
+				<target state="translated">Augmenter le retrait</target>
+			</trans-unit>
+			<trans-unit id="InsertHorizontalRule-helpText" approved="yes">
+				<source>Inserts an horizontal rule</source>
+				<target state="translated">Insérer une règle horizontale</target>
+			</trans-unit>
+			<trans-unit id="InsertHorizontalRule-Tooltip" approved="yes">
+				<source>Horizontal Rule</source>
+				<target state="translated">Barre horizontale</target>
+			</trans-unit>
+			<trans-unit id="InsertOrderedList-helpText" approved="no">
+				<source>Makes an ordered list from the current selection</source>
+				<target state="needs-translation">Faire une liste ordonnée avec la sélection en cours</target>
+			</trans-unit>
+			<trans-unit id="InsertOrderedList-Tooltip" approved="yes">
+				<source>Ordered List</source>
+				<target state="translated">Liste ordonnée</target>
+			</trans-unit>
+			<trans-unit id="InsertParagraphAfter-contextMenuTitle" approved="yes">
+				<source>Insert paragraph after</source>
+				<target state="translated">Insérer un paragraphe après</target>
+			</trans-unit>
+			<trans-unit id="InsertParagraphAfter-helpText" approved="yes">
+				<source>Inserts a paragraph after the current block</source>
+				<target state="translated">Insérer un paragraphe avant le bloque courant</target>
+			</trans-unit>
+			<trans-unit id="InsertParagraphAfter-Tooltip" approved="yes">
+				<source>Insert a paragraph after the current block</source>
+				<target state="translated">Insérer un paragraphe après le bloc courant</target>
+			</trans-unit>
+			<trans-unit id="InsertParagraphBefore-contextMenuTitle" approved="yes">
+				<source>Insert paragraph before</source>
+				<target state="translated">Insérer un paragraphe avant</target>
+			</trans-unit>
+			<trans-unit id="InsertParagraphBefore-helpText" approved="yes">
+				<source>Inserts a paragraph before the current block</source>
+				<target state="translated">Insérer un paragraphe avant le bloque en cours</target>
+			</trans-unit>
+			<trans-unit id="InsertParagraphBefore-Tooltip" approved="yes">
+				<source>Insert a paragraph before the current block</source>
+				<target state="translated">Insérer un paragraphe avant le bloc courant</target>
+			</trans-unit>
+			<trans-unit id="InsertUnorderedList-helpText" approved="yes">
+				<source>Makes a bulleted list from the current selection</source>
+				<target state="translated">Faire une liste à puce avec la sélection en cours</target>
+			</trans-unit>
+			<trans-unit id="InsertUnorderedList-Tooltip" approved="yes">
+				<source>Bulleted List</source>
+				<target state="translated">Liste à puces</target>
+			</trans-unit>
+			<trans-unit id="JustifyCenter-helpText" approved="yes">
+				<source>Centers the text</source>
+				<target state="translated">Centrer le texte</target>
+			</trans-unit>
+			<trans-unit id="JustifyCenter-Tooltip" approved="yes">
+				<source>Center</source>
+				<target state="translated">Centré</target>
+			</trans-unit>
+			<trans-unit id="JustifyFull-helpText" approved="yes">
+				<source>Aligns the text both to the left and the right</source>
+				<target state="translated">Aligner le texte à la fois à gauche et à droite.</target>
+			</trans-unit>
+			<trans-unit id="JustifyFull-Tooltip" approved="yes">
+				<source>Justify left and right</source>
+				<target state="translated">Justifié à gauche et à droite</target>
+			</trans-unit>
+			<trans-unit id="JustifyLeft-helpText" approved="yes">
+				<source>Aligns the text to the left</source>
+				<target state="translated">Aligner le texte à gauche</target>
+			</trans-unit>
+			<trans-unit id="JustifyLeft-Tooltip" approved="yes">
+				<source>Justify left</source>
+				<target state="translated">Justifié à gauche</target>
+			</trans-unit>
+			<trans-unit id="JustifyRight-helpText" approved="yes">
+				<source>Aligns the text to the right</source>
+				<target state="translated">Aligner le texte sur la droite</target>
+			</trans-unit>
+			<trans-unit id="JustifyRight-Tooltip" approved="yes">
+				<source>Justify right</source>
+				<target state="translated">Justifié à droite</target>
+			</trans-unit>
+			<trans-unit id="Left-Tooltip" approved="yes">
+				<source>Left</source>
+				<target state="translated">Gauche</target>
+			</trans-unit>
+			<trans-unit id="No block" approved="yes">
+				<source>No block format</source>
+				<target state="translated">Aucun format de bloc</target>
+			</trans-unit>
+			<trans-unit id="Outdent-helpText" approved="yes">
+				<source>Reduces text indentation</source>
+				<target state="translated">Réduire l'identation du texte</target>
+			</trans-unit>
+			<trans-unit id="Outdent-Tooltip" approved="yes">
+				<source>Reduce indent</source>
+				<target state="translated">Réduire le retrait</target>
+			</trans-unit>
+			<trans-unit id="Remove block" approved="yes">
+				<source>Remove block format</source>
+				<target state="translated">Supprimer le format du bloc</target>
+			</trans-unit>
+			<trans-unit id="Technische Universitat Ilmenau" approved="yes">
+				<source>Technische Universität Ilmenau</source>
+				<target state="translated">Technische Universität Ilmenau</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
