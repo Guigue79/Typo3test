@@ -3,7 +3,7 @@ return [
     'BE' => [
         'debug' => true,
         'explicitADmode' => 'explicitAllow',
-        'installToolPassword' => '$P$CMAuF89319A/HuHd.cl30ihdAlyHig/',
+        'installToolPassword' => '$P$CcxAuF89319A/HuHxcl30ihdAlyHig/',
         'loginSecurityLevel' => 'rsa',
         'versionNumberInFilename' => '0',
     ],
@@ -60,7 +60,7 @@ return [
         'loginSecurityLevel' => 'rsa2',
     ],
     'GFX' => [
-        'colorspace' => 'sRGB',
+        'colorspace' => 'RGB',
         'im' => 1,
         'im_mask_temp_ext_gif' => 1,
         'im_path' => '/usr/bin/',
