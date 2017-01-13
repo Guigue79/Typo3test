@@ -112,7 +112,7 @@ return [
         ],
         'clearCacheSystem' => false,
         'devIPmask' => '',
-        'displayErrors' => 1,
+        'displayErrors' => 0,
         'enableDeprecationLog' => false,
         'encryptionKey' => '1d575ea37bef7d45ed318842c34c519e9055b3cf3aa693cc7d16424143b58dcdc58609fc52ad65d17cdae646ebb99023',
         'isInitialDatabaseImportDone' => true,
