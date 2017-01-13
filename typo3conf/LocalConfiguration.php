@@ -1,7 +1,7 @@
 <?php
 return [
     'BE' => [
-        'debug' => false,
+        'debug' => true,
         'explicitADmode' => 'explicitAllow',
         'installToolPassword' => '$P$CMAuF89319A/HuHd.cl30ihdAlyHig/',
         'loginSecurityLevel' => 'rsa',
