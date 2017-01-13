@@ -58,7 +58,7 @@ return [
     ],
     'FE' => [
         'debug' => false,
-        'loginSecurityLevel' => 'rsa',
+        'loginSecurityLevel' => 'rsa2',
     ],
     'GFX' => [
         'colorspace' => 'RGB',
